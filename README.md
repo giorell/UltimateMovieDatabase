@@ -23,7 +23,7 @@ The login page uses a username and password to access themoviedb.org servers usi
 ![image](https://github.com/giorell/UltimateMovieDatabase/blob/master/images/UMDB_loginpage.png)
 
 #### HOME PAGE
-The homepage downlaods the latest 20 trending movies. It's a horizontal scrolling UICollectionView so you can scroll from right to left to see the other films. The films can also be clicked to see movie details. 
+The homepage downlaods the latest 20 trending movies. It's a horizontal scrolling UICollectionView so you can scroll from right to left to see the other films. The films can also be clicked to see movie details. The logout button uses a User Defautl setting to save the login status. 
 
 ![image](https://github.com/giorell/UltimateMovieDatabase/blob/master/images/UMDB_homepage.png)
 
