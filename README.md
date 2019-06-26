@@ -52,6 +52,12 @@ The movie detail page contains the poster, raiting, and movie description. The m
 
 ![image](https://github.com/giorell/UltimateMovieDatabase/blob/master/images/UMDB_moviedetailview.png)
 
+# Requirements
+
+* Xcode 9.2
+* Swift 4.0
 
 
+# License
 
+Copyright (c) Giordany Orellana 2019
