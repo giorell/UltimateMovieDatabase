@@ -52,6 +52,11 @@ The movie detail page contains the poster, raiting, and movie description. The m
 
 ![image](https://github.com/giorell/UltimateMovieDatabase/blob/master/images/UMDB_moviedetailview.png)
 
+# How To Build
+1. Download the UltimateMovieDatabase repo. 
+2. Open the project Capstone_UltimateMDB.xcodeproj in Xcode
+3. Build and run project. 
+
 # Requirements
 
 * Xcode 9.2
