@@ -7,6 +7,8 @@ The goal of the app for a user is to view the latest trending movies, to add mov
 
 Previews made from iPhone 7. 
 
+# Implementation
+
 The app contains the following view controllers:
 
 1. Login Page
